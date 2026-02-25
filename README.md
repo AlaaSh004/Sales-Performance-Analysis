@@ -57,3 +57,11 @@ The goal of this project is to analyze sales performance, profitability patterns
 
 ## Conclusion
 This project demonstrates the integration of data analysis and business intelligence tools to extract meaningful insights and translate them into actionable business recommendations.
+
+---
+
+## Dataset Source
+The dataset used in this project is the **Sample Superstore Dataset**, which is a classic dataset for retail analytics. 
+- **Source:** [Kaggle - Sample Supermarket Dataset](https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset)
+  
+> **Note:** To run the Python notebook locally, please download the dataset from the link above and ensure it is placed in the same directory as the notebook file.
