@@ -48,13 +48,6 @@ The goal of this project is to analyze sales performance, profitability patterns
 
 ---
 
-## Project Files
-- `sample superstore.ipynb` → Python data cleaning & analysis
-- `Superstore Dashboard.pbix` → Power BI dashboard
-- `dashboard.png` → Dashboard preview image
-
----
-
 ## Conclusion
 This project demonstrates the integration of data analysis and business intelligence tools to extract meaningful insights and translate them into actionable business recommendations.
 
